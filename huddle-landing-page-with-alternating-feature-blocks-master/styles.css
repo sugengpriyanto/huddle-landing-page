@@ -178,3 +178,13 @@ footer {
     color: white;
     display: flex;
 }
+
+.footer-logo {
+    color: white;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
